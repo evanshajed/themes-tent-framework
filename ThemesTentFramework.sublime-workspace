@@ -528,18 +528,91 @@
 			}
 		},
 		{
-			"file": "css/sass/screen.scss",
+			"file": "css/sass/ttf.scss",
 			"settings":
 			{
-				"buffer_size": 436,
+				"buffer_size": 523,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "css/stylesheets/screen.css",
+			"file": "css/sass/_scaffolding.scss",
 			"settings":
 			{
-				"buffer_size": 501,
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sass/_global.scss",
+			"settings":
+			{
+				"buffer_size": 380,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sass/_layouts.scss",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sass/_reset.scss",
+			"settings":
+			{
+				"buffer_size": 6874,
+				"line_ending": "Unix",
+				"name": "/*! normalize.css v2.0.1 | MIT License | git.io/no"
+			}
+		},
+		{
+			"file": "css/sass/_grid.scss",
+			"settings":
+			{
+				"buffer_size": 438,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sass/_mixins.scss",
+			"settings":
+			{
+				"buffer_size": 23566,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sass/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 10536,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/config.rb",
+			"settings":
+			{
+				"buffer_size": 846,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sass/_buttons.scss",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/stylesheets/ttf.css",
+			"settings":
+			{
+				"buffer_size": 16804,
 				"line_ending": "Unix"
 			}
 		}
@@ -596,6 +669,7 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/grid.scss",
 		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/config.rb",
 		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/ttf-docs/build/html/index.html",
 		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/ttf-docs/source/index.rst",
@@ -722,8 +796,7 @@
 		"/Applications/MAMP/htdocs/AllRed/WordPress/wp-content/themes/Rush/single.php",
 		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/js/libs/mailcheck/LICENSE",
 		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/js/libs/mailcheck/README.md",
-		"/Users/evanshajed/Downloads/initializr-verekia-3.0/css/style.css",
-		"/Applications/MAMP/htdocs/AllRed/Assets/index.html"
+		"/Users/evanshajed/Downloads/initializr-verekia-3.0/css/style.css"
 	],
 	"find":
 	{
@@ -934,7 +1007,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 10,
 			"sheets":
 			[
 				{
@@ -965,18 +1038,263 @@
 				},
 				{
 					"buffer": 1,
-					"file": "css/sass/screen.scss",
+					"file": "css/sass/ttf.scss",
 					"settings":
 					{
-						"buffer_size": 436,
+						"buffer_size": 523,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								294,
-								294
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/sass/_scaffolding.scss",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/sass/_global.scss",
+					"settings":
+					{
+						"buffer_size": 380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								220,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/sass/_layouts.scss",
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/sass/_reset.scss",
+					"settings":
+					{
+						"buffer_size": 6874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6874,
+								6874
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*! normalize.css v2.0.1 | MIT License | git.io/no",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/sass/_grid.scss",
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								438,
+								438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/sass/_mixins.scss",
+					"settings":
+					{
+						"buffer_size": 23566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								958,
+								958
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9366.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "css/sass/_variables.scss",
+					"settings":
+					{
+						"buffer_size": 10536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10536,
+								10536
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3729.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "css/config.rb",
+					"settings":
+					{
+						"buffer_size": 846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "css/sass/_buttons.scss",
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
 							]
 						],
 						"settings":
@@ -996,19 +1314,19 @@
 			"sheets":
 			[
 				{
-					"buffer": 2,
-					"file": "css/stylesheets/screen.css",
+					"buffer": 11,
+					"file": "css/stylesheets/ttf.css",
 					"settings":
 					{
-						"buffer_size": 501,
+						"buffer_size": 16804,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								501,
-								501
+								16404,
+								16404
 							]
 						],
 						"settings":
@@ -1018,7 +1336,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 11520.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1054,7 +1372,7 @@
 		"cols":
 		[
 			0.0,
-			0.386224215816,
+			0.474718498929,
 			1.0
 		],
 		"rows":
@@ -1109,6 +1427,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 280.0,
+	"side_bar_width": 171.0,
 	"status_bar_visible": true
 }
