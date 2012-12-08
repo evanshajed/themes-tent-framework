@@ -520,18 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "css/main.css",
+			"file": "ttf-docs/source/index.rst",
 			"settings":
 			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/ttf.css",
-			"settings":
-			{
-				"buffer_size": 263,
+				"buffer_size": 571,
 				"line_ending": "Unix"
 			}
 		}
@@ -588,6 +580,7 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/ThemesTent/TemesTentDev/themes-tent-framework/css/main.css",
 		"/Applications/MAMP/htdocs/know-your-coverage/kyc-m-framework/quiz-page-structure.html",
 		"/Applications/MAMP/htdocs/know-your-coverage/kyc-m-framework/structure-quiz-page.html",
 		"/Applications/MAMP/htdocs/know-your-coverage/kyc-m-framework/liability-quiz-page.html",
@@ -714,8 +707,7 @@
 		"/Applications/MAMP/htdocs/AllRed/Assets/index.html",
 		"/Applications/MAMP/htdocs/AllRed/WordPress/wp-content/themes/AllRed/css/style.css",
 		"/Users/evanshajed/ProjectResources/work/John/Admin Panel/adminHTML/js/plugins.js",
-		"/Users/evanshajed/ProjectResources/Themes/CSS HTML/red/index.html",
-		"/Users/evanshajed/ProjectResources/work/digital marketing agency/DMWebsite/HTML/index.html"
+		"/Users/evanshajed/ProjectResources/Themes/CSS HTML/red/index.html"
 	],
 	"find":
 	{
@@ -926,54 +918,28 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "css/main.css",
+					"file": "ttf-docs/source/index.rst",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 571,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								445,
+								445
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "css/ttf.css",
-					"settings":
-					{
-						"buffer_size": 263,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								226,
-								226
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
+							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
