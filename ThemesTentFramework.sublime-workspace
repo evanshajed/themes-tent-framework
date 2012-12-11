@@ -531,7 +531,7 @@
 			"file": "css/sass/screen.scss",
 			"settings":
 			{
-				"buffer_size": 390,
+				"buffer_size": 436,
 				"line_ending": "Unix"
 			}
 		},
@@ -539,7 +539,7 @@
 			"file": "css/stylesheets/screen.css",
 			"settings":
 			{
-				"buffer_size": 2919,
+				"buffer_size": 501,
 				"line_ending": "Unix"
 			}
 		}
@@ -547,12 +547,16 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 226.0,
 		"selected_items":
 		[
 			[
 				"insta",
 				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
 			],
 			[
 				"instal",
@@ -573,10 +577,6 @@
 			[
 				"ins",
 				"Package Control: Install Package"
-			],
-			[
-				"Package Control: ",
-				"Package Control: List Packages"
 			]
 		],
 		"width": 579.0
@@ -596,6 +596,7 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/config.rb",
 		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/ttf-docs/build/html/index.html",
 		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/ttf-docs/source/index.rst",
 		"/Applications/MAMP/htdocs/ThemesTent/TemesTentDev/themes-tent-framework/css/main.css",
@@ -722,8 +723,7 @@
 		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/js/libs/mailcheck/LICENSE",
 		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/js/libs/mailcheck/README.md",
 		"/Users/evanshajed/Downloads/initializr-verekia-3.0/css/style.css",
-		"/Applications/MAMP/htdocs/AllRed/Assets/index.html",
-		"/Applications/MAMP/htdocs/AllRed/WordPress/wp-content/themes/AllRed/css/style.css"
+		"/Applications/MAMP/htdocs/AllRed/Assets/index.html"
 	],
 	"find":
 	{
@@ -968,15 +968,15 @@
 					"file": "css/sass/screen.scss",
 					"settings":
 					{
-						"buffer_size": 390,
+						"buffer_size": 436,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								389,
-								389
+								294,
+								294
 							]
 						],
 						"settings":
@@ -1000,15 +1000,15 @@
 					"file": "css/stylesheets/screen.css",
 					"settings":
 					{
-						"buffer_size": 2919,
+						"buffer_size": 501,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1235,
-								1235
+								501,
+								501
 							]
 						],
 						"settings":
@@ -1018,7 +1018,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 389.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
