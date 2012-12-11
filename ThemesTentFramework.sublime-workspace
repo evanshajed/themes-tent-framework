@@ -520,10 +520,26 @@
 	"buffers":
 	[
 		{
-			"file": "ttf-docs/source/index.rst",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 571,
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sass/screen.scss",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/stylesheets/screen.css",
+			"settings":
+			{
+				"buffer_size": 2919,
 				"line_ending": "Unix"
 			}
 		}
@@ -580,6 +596,8 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/ttf-docs/build/html/index.html",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/ttf-docs/source/index.rst",
 		"/Applications/MAMP/htdocs/ThemesTent/TemesTentDev/themes-tent-framework/css/main.css",
 		"/Applications/MAMP/htdocs/know-your-coverage/kyc-m-framework/quiz-page-structure.html",
 		"/Applications/MAMP/htdocs/know-your-coverage/kyc-m-framework/structure-quiz-page.html",
@@ -705,9 +723,7 @@
 		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/js/libs/mailcheck/README.md",
 		"/Users/evanshajed/Downloads/initializr-verekia-3.0/css/style.css",
 		"/Applications/MAMP/htdocs/AllRed/Assets/index.html",
-		"/Applications/MAMP/htdocs/AllRed/WordPress/wp-content/themes/AllRed/css/style.css",
-		"/Users/evanshajed/ProjectResources/work/John/Admin Panel/adminHTML/js/plugins.js",
-		"/Users/evanshajed/ProjectResources/Themes/CSS HTML/red/index.html"
+		"/Applications/MAMP/htdocs/AllRed/WordPress/wp-content/themes/AllRed/css/style.css"
 	],
 	"find":
 	{
@@ -918,28 +934,54 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "ttf-docs/source/index.rst",
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 571,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								445,
-								445
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/RestructuredText/reStructuredText.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/sass/screen.scss",
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -950,8 +992,37 @@
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 2,
+					"file": "css/stylesheets/screen.css",
+					"settings":
+					{
+						"buffer_size": 2919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1235,
+								1235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 389.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -983,7 +1054,7 @@
 		"cols":
 		[
 			0.0,
-			0.56499435241,
+			0.386224215816,
 			1.0
 		],
 		"rows":
@@ -1038,6 +1109,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 195.0,
+	"side_bar_width": 280.0,
 	"status_bar_visible": true
 }
