@@ -11,18 +11,21 @@
 	/* Core Variables & Mixins */
 	@import "variables";
 	@import "mixins";
-	
+
 	/* CSS Reset */
 	@import "reset";
-	
+
 	/* Global Styles */
 	@import "global";
 	/* Grid System and page structure */
 	@import "grid";
 	/* Layouts Style */
 	@import "layouts";
-	
+
 	@import "compass/css3";
-	
+
 	/* Buttons Style */
 	@import "buttons";
+
+	/* Custom Styling Options Will Be placed Here */
+	/* Custom Styling Options Will Be placed Here */
