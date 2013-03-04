@@ -1,2 +1,14 @@
 # Include your project-specific ignores in this file
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+
+*.scssc
+
+*.scssc
+
+.sass-cache/79bdcf1af93934bb8ae0697715ecdf2ef39fd9e4/_variables.scssc
+
+*.scssc
+
+*.sublime-workspace
+
+*.sublime-workspace

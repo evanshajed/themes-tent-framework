@@ -327,8 +327,8 @@ table {
 body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 20px;
+  font-size: 1em;
+  line-height: 1.7em;
   color: #333333;
   background-color: white; }
 
@@ -446,7 +446,7 @@ a:hover {
   .row-fluid [class*="span"] {
     display: block;
     width: 100%;
-    min-height: 30px;
+    min-height: 2.2em;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -605,5 +605,6 @@ a:hover {
   /* IE7 inline-block hack */
   *zoom: 1; }
 
+/* Iconic Fonts */
 /* Custom Styling Options Will Be placed Here */
 /* Custom Styling Options Will Be placed Here */

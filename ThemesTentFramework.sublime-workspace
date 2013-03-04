@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"icon",
+				"iconic"
+			],
+			[
+				"iconic",
+				"iconic_fill"
+			],
+			[
 				"info",
 				"infoScreenPage"
 			],
@@ -506,14 +514,6 @@
 			[
 				"up",
 				"upcoming-event"
-			],
-			[
-				"current",
-				"current-menu-item"
-			],
-			[
-				"gallery",
-				"gallery-nav-widget"
 			]
 		]
 	},
@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1839,
 				"line_ending": "Unix"
 			}
 		},
@@ -531,56 +531,7 @@
 			"file": "css/sass/ttf.scss",
 			"settings":
 			{
-				"buffer_size": 523,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/sass/_scaffolding.scss",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/sass/_global.scss",
-			"settings":
-			{
-				"buffer_size": 380,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/sass/_layouts.scss",
-			"settings":
-			{
-				"buffer_size": 345,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/sass/_reset.scss",
-			"settings":
-			{
-				"buffer_size": 6874,
-				"line_ending": "Unix",
-				"name": "/*! normalize.css v2.0.1 | MIT License | git.io/no"
-			}
-		},
-		{
-			"file": "css/sass/_grid.scss",
-			"settings":
-			{
-				"buffer_size": 438,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/sass/_mixins.scss",
-			"settings":
-			{
-				"buffer_size": 23566,
+				"buffer_size": 668,
 				"line_ending": "Unix"
 			}
 		},
@@ -588,31 +539,7 @@
 			"file": "css/sass/_variables.scss",
 			"settings":
 			{
-				"buffer_size": 10536,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/config.rb",
-			"settings":
-			{
-				"buffer_size": 846,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/sass/_buttons.scss",
-			"settings":
-			{
-				"buffer_size": 145,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/stylesheets/ttf.css",
-			"settings":
-			{
-				"buffer_size": 16804,
+				"buffer_size": 10430,
 				"line_ending": "Unix"
 			}
 		}
@@ -669,8 +596,26 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/grid.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/iconic_stroke.css",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/iconic_stroke.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/iconic_fill.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/iconic_fill.css",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/iconic_fill.css.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/js/plugins.js",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/LICENSE",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/component.json",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/config.rb",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/_scaffolding.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/_global.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/_layouts.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/_reset.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/_grid.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/_mixins.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/_variables.scss",
 		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/config.rb",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/_buttons.scss",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/stylesheets/ttf.css",
+		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/css/sass/grid.scss",
 		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/ttf-docs/build/html/index.html",
 		"/Applications/MAMP/htdocs/ThemesTent/ThemesTentDev/themes-tent-framework/ttf-docs/source/index.rst",
 		"/Applications/MAMP/htdocs/ThemesTent/TemesTentDev/themes-tent-framework/css/main.css",
@@ -778,25 +723,7 @@
 		"/Applications/MAMP/htdocs/tweetfindWP/wp-content/themes/tweetfind/taxonomy.php",
 		"/Users/evanshajed/ProjectResources/work/Software People/DellShareShowcase/HTML/js/bootstrap.min.js",
 		"/Applications/MAMP/htdocs/portnov/wp-content/themes/portnov/functions.php",
-		"/Applications/MAMP/htdocs/florish/wp-content/themes/twentyeleven/style.css",
-		"/Applications/MAMP/htdocs/florish/wp-content/themes/florish/css/bootstrap.min.css",
-		"/Applications/MAMP/htdocs/florish/wp-content/themes/florish/css/style.css",
-		"/Applications/MAMP/htdocs/florish/wp-content/themes/florish/index_back.php",
-		"/Applications/MAMP/htdocs/GSWordPress/wp-content/themes/gsHTML5TB/footer.php",
-		"/Applications/MAMP/htdocs/GSWordPress/wp-content/themes/gsHTML5TB/loop-location.php",
-		"/Applications/MAMP/htdocs/GSWordPress/wp-content/themes/gsHTML5TB/404.php",
-		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/css/style.css",
-		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/js/libs/bootstrap/bootstrap.min.js",
-		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/js/script.min.js",
-		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/js/script.js",
-		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/index.html",
-		"/Applications/MAMP/htdocs/AllRed/WordPress/wp-content/themes/Rush/sidebar-footer.php",
-		"/private/var/folders/6m/b0qktx3d737f2wxv4ydbs2rm0000gn/T/fz3temp-1/index.php",
-		"/Applications/MAMP/htdocs/AllRed/WordPress/wp-content/themes/Rush/js/plugins.js",
-		"/Applications/MAMP/htdocs/AllRed/WordPress/wp-content/themes/Rush/single.php",
-		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/js/libs/mailcheck/LICENSE",
-		"/Users/evanshajed/ProjectResources/work/Custom Templates/BuzzApp/HTML/js/libs/mailcheck/README.md",
-		"/Users/evanshajed/Downloads/initializr-verekia-3.0/css/style.css"
+		"/Applications/MAMP/htdocs/florish/wp-content/themes/twentyeleven/style.css"
 	],
 	"find":
 	{
@@ -814,6 +741,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"dropdown",
+			"touch",
 			"<h2>SELECT WHICH QUIZ YOU WANT TO RETAKE?</h2>",
 			".qa-third-line",
 			".ui-page",
@@ -939,9 +868,7 @@
 			"primary-widget-area",
 			"sidebar",
 			"widget-area ul ul",
-			"widget-title",
-			"sidebar-right",
-			"sidebar"
+			"widget-title"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1007,7 +934,7 @@
 	"groups":
 	[
 		{
-			"selected": 10,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -1015,41 +942,49 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1839,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1407,
+								1407
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 388.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
 					"buffer": 1,
 					"file": "css/sass/ttf.scss",
 					"settings":
 					{
-						"buffer_size": 523,
+						"buffer_size": 668,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								482,
-								482
+								505,
+								505
 							]
 						],
 						"settings":
@@ -1065,236 +1000,18 @@
 				},
 				{
 					"buffer": 2,
-					"file": "css/sass/_scaffolding.scss",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "css/sass/_global.scss",
-					"settings":
-					{
-						"buffer_size": 380,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								220,
-								220
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "css/sass/_layouts.scss",
-					"settings":
-					{
-						"buffer_size": 345,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								343,
-								343
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "css/sass/_reset.scss",
-					"settings":
-					{
-						"buffer_size": 6874,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6874,
-								6874
-							]
-						],
-						"settings":
-						{
-							"auto_name": "/*! normalize.css v2.0.1 | MIT License | git.io/no",
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "css/sass/_grid.scss",
-					"settings":
-					{
-						"buffer_size": 438,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								438,
-								438
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "css/sass/_mixins.scss",
-					"settings":
-					{
-						"buffer_size": 23566,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								958,
-								958
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 9366.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "css/sass/_variables.scss",
 					"settings":
 					{
-						"buffer_size": 10536,
+						"buffer_size": 10430,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								10536,
-								10536
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/SCSS/SCSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 3729.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "css/config.rb",
-					"settings":
-					{
-						"buffer_size": 846,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								585,
-								585
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "css/sass/_buttons.scss",
-					"settings":
-					{
-						"buffer_size": 145,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								143,
-								143
+								4005,
+								4005
 							]
 						],
 						"settings":
@@ -1302,41 +1019,7 @@
 							"syntax": "Packages/SCSS/SCSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 11,
-					"file": "css/stylesheets/ttf.css",
-					"settings":
-					{
-						"buffer_size": 16804,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16404,
-								16404
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 11520.0,
+						"translation.y": 1854.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1372,7 +1055,7 @@
 		"cols":
 		[
 			0.0,
-			0.474718498929,
+			0.502994391827,
 			1.0
 		],
 		"rows":
@@ -1427,6 +1110,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 171.0,
+	"side_bar_width": 256.0,
 	"status_bar_visible": true
 }
